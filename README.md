@@ -79,4 +79,4 @@ Use `flytctl --help` to get more information about the commands.
 
 
 ## Acknowledgments
-This work was done in Synerg Lab at IIT Bombay with support from IBM Research, India.
+This work was done at the [SynerG Lab](https://www.cse.iitb.ac.in/synerg/) of Department of Computer Science and Engineering of IIT Bombay with support from IBM Research Lab, India.
